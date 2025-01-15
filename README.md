@@ -15,7 +15,7 @@ First and foremost, I apologize for not being able to provide the Blend files fo
 # Phone Model For ChatBot  📱
 ![Model](./Imgs/phone.png)
 ![Model](./Imgs/phone1.png)
-[![Watch the video](https://img.icons8.com/ios/452/play-button.png)](./Imgs/phonevid.mp4)
+
 
 # teddy bear Model For ChatBot  🐻
 [![Watch the video](https://img.icons8.com/ios/452/play-button.png)](./Imgs/teddybearvid.mp4)
